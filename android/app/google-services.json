@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205057097990",
+    "project_id": "mea-canteen",
+    "storage_bucket": "mea-canteen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205057097990:android:ccd1a79dfce3d0be0f5e87",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205057097990-t2m7nkor5c79ro65n3fcakrar91l38d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQhUVu2cyoIe4JyvHD5pSnqVghKQBiqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205057097990-t2m7nkor5c79ro65n3fcakrar91l38d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
