@@ -191,7 +191,7 @@ class _HomepageState extends State<Homepage> {
                             fit: BoxFit.cover,
                             image: AssetImage('assets/images/Dark.jpeg'))),
                     currentAccountPicture: CircleAvatar(
-                      backgroundImage: AssetImage('images/dosa.jpg'),
+                      backgroundImage: AssetImage('assets/images/profile.jpg'),
                     ),
                     accountName: Text('ABHISHEK'),
                     accountEmail: Text("Abhishekabhi@gmail.com")),
